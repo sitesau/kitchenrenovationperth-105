@@ -1,0 +1,22 @@
+{
+  "wheel_id": 699,
+  "structure": "umbrella",
+  "slug": "kitchenrenovationperth-105",
+  "project": "kitchen-renovations-perth-common-mistakes-a0dc920dfd301c4326ca5",
+  "parent_t1_ref": "kitchenrenovationperth-154",
+  "node_role": "feeder",
+  "money_target": "kitchenrenovationperth.com.au",
+  "primary_kw": "kitchen renovations perth common mistakes",
+  "intended_url": "https://sites-e470-2.web.app/kitchen-renovations-perth-common-mistakes-a0dc920dfd301c4326ca5/",
+  "tier": "T2",
+  "writeback_nonce": "ddcd95d776ee4d83",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/kitchenrenovationperth-154/",
+      "anchor": "the main guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
